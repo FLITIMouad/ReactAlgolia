@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ccd65a8.css",
-    "main.js": "/static/js/main.041ac415.js",
-    "static/js/787.c1d4f37e.chunk.js": "/static/js/787.c1d4f37e.chunk.js",
-    "index.html": "/index.html",
-    "main.6ccd65a8.css.map": "/static/css/main.6ccd65a8.css.map",
-    "main.041ac415.js.map": "/static/js/main.041ac415.js.map",
-    "787.c1d4f37e.chunk.js.map": "/static/js/787.c1d4f37e.chunk.js.map"
+    "main.css": "/ReactAlgolia/static/css/main.6ccd65a8.css",
+    "main.js": "/ReactAlgolia/static/js/main.07e7eeaf.js",
+    "static/js/787.c1d4f37e.chunk.js": "/ReactAlgolia/static/js/787.c1d4f37e.chunk.js",
+    "index.html": "/ReactAlgolia/index.html",
+    "main.6ccd65a8.css.map": "/ReactAlgolia/static/css/main.6ccd65a8.css.map",
+    "main.07e7eeaf.js.map": "/ReactAlgolia/static/js/main.07e7eeaf.js.map",
+    "787.c1d4f37e.chunk.js.map": "/ReactAlgolia/static/js/787.c1d4f37e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ccd65a8.css",
-    "static/js/main.041ac415.js"
+    "static/js/main.07e7eeaf.js"
   ]
 }
