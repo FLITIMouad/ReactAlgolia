@@ -11,13 +11,15 @@ const App = () => {
 
   const { loading, products, error,nbpage } = useSelector((state) => state.products);
   useEffect(() => {
-    dispatch(SearchProducts());
+    //dispatch(SearchProducts());
   }, [dispatch]);
 
   
   return (
     <>
-  
+      
+      test
+  {/* 
       <Container className="App">
         <SearchComponent dispatch={dispatch} />
      <Row xs={1} md={2} className="g-4">
@@ -42,7 +44,7 @@ const App = () => {
             )}
           <PaginationComponent nbPage={nbpage} dispatch={dispatch}/> 
       </Row>
-      </Container>
+      </Container> */}
     </>
   );
 };
